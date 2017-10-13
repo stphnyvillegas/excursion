@@ -2,13 +2,26 @@ html {
 	text-align: center;
 	color: white;
 	background-color: black;
+	font-family: Verdana;
 }
 
 a {
 	text-decoration: none;
-	color: teal;
+	color: aquamarine;
+	font-size: 16px;
 }
 
 h1 {
 	color: white;
+	font-weight: normal;
+	font-size: 50px;
+}
+
+p {
+	color: gray;
+	font-size: 21px;
+}
+
+.footer {
+	text-align: right;
 }
